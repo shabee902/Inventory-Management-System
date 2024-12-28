@@ -1,0 +1,21 @@
+Item,Category,Quantity,Price,Total
+Laptop,Electronics,10,800.0,8000.0
+Mouse,Accessories,50,20.0,1000.0
+Keyboard,Accessories,40,30.0,1200.0
+Monitor,Electronics,20,200.0,4000.0
+Printer,Electronics,15,150.0,2250.0
+USB Cable,Accessories,100,10.0,1000.0
+External Hard Drive,Storage,25,100.0,2500.0
+Desk Chair,Furniture,30,120.0,3600.0
+Desk Lamp,Furniture,20,50.0,1000.0
+Router,Electronics,10,70.0,700.0
+Smartphone,Electronics,15,600.0,9000.0
+Tablet,Electronics,10,300.0,3000.0
+Power Bank,Accessories,50,25.0,1250.0
+Webcam,Electronics,25,75.0,1875.0
+Microphone,Electronics,20,60.0,1200.0
+Headphones,Electronics,35,80.0,2800.0
+Speaker,Audio,40,90.0,3600.0
+Surge Protector,Accessories,60,25.0,1500.0
+Projector,Electronics,5,400.0,2000.0
+VR Headset,Electronics,7,250.0,1750.0
